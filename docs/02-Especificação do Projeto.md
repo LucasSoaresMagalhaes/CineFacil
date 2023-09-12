@@ -2,45 +2,62 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
+O projeto CineFácil aborda uma necessidade concreta no mercado de entretenimento. Ele oferece uma solução abrangente e única para simplificar a experiência de assistir filmes e séries, tornando mais fácil para os usuários encontrar o que desejam e personalizar sua organização. Além disso, as recomendações inteligentes fornecidas pela aplicação ajudarão os usuários a descobrir novos conteúdos que se alinham com seus gostos, aprimorando assim sua experiência de entretenimento de maneira significativa.
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Persona 1: Maria
+Descrição:
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+    Idade: 30 anos
+    Ocupação: Professora
+    Estado Civil: Casada
+    Objetivo: Encontrar facilmente filmes e séries para assistir com sua família, economizando tempo na busca e organização do entretenimento.
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Contexto:
+Maria é uma professora dedicada com uma vida agitada. Ela adora assistir a filmes e séries com sua família nas horas vagas, mas muitas vezes se sente sobrecarregada pela dificuldade de encontrar títulos interessantes e descobrir em qual plataforma estão disponíveis. Maria busca uma solução que simplifique a busca, permita criar listas personalizadas para diferentes membros da família e ofereça recomendações inteligentes com base nos gostos de sua família.
+
+Persona 2: João
+
+Descrição:
+
+    Idade: 35 anos
+    Ocupação: Gerente de Marketing
+    Estado Civil: Solteiro
+    Objetivo: Descobrir filmes e séries de alta qualidade para desfrutar em seu tempo livre, buscando uma experiência de entretenimento mais enriquecedora.
+
+Contexto:
+João é um profissional de marketing bem-sucedido que leva uma vida agitada na cidade. Ele valoriza seu tempo de lazer e gosta de relaxar assistindo a filmes e séries. No entanto, ele está em busca de conteúdo de alta qualidade que o envolva intelectualmente e emocionalmente. João procura uma solução que lhe forneça recomendações de conteúdo relevante e informativo, ajudando-o a maximizar seu tempo de entretenimento.
+
+Persona 3: Ana
+
+Descrição:
+
+    Idade: 40 anos
+    Ocupação: Médica
+    Estado Civil: Casada e mãe de dois filhos
+    Objetivo: Encontrar filmes e séries adequados para assistir em família, proporcionando entretenimento seguro e educativo para seus filhos.
+
+Contexto:
+Ana é uma médica ocupada e mãe de dois filhos pequenos. Ela valoriza o tempo que passa com sua família e, nos fins de semana, gosta de assistir a filmes e séries com seus filhos. No entanto, ela enfrenta o desafio de encontrar conteúdo apropriado para crianças que seja educativo e divertido. Ana está em busca de uma solução que a ajude a descobrir filmes e séries que sejam seguros para seus filhos e, ao mesmo tempo, ofereçam entretenimento educativo para toda a família.
 
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+
+
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
-
+|João  | Receber recomendações de filmes e séries de alta qualidade com base em meus interesses e preferências           | Desfrutar de uma experiência de entretenimento mais enriquecedora.               |
+|João  | Poder filtrar as recomendações por gênero, classificação etária e críticas da comunidade           | Encontrar conteúdo que se adapte ao meu estado de espírito e às minhas expectativas de qualidade.               |
+|João  | Acompanhar os filmes e séries que já assisti           | Evitar assistir ao mesmo conteúdo novamente.               |
+|Ana       | Encontrar facilmente filmes e séries adequados para assistir em família, garantindo que o conteúdo seja seguro e educativo para meus filhos.                 | Assegurar entretenimento seguro e educativo para minha família. |
+|Ana       | Criar listas de reprodução personalizadas para diferentes faixas etárias de meus filhos.                 | Organizar o entretenimento de acordo com suas idades e interesses. |
+|Ana       | Receber informações detalhadas sobre o conteúdo, incluindo classificação etária, sinopse e avaliações parentais                 | Tomar decisões informadas sobre o que assistir com minha família. |
+|Maria       | Simplificar a busca por filmes e séries para assistir com minha família, economizando tempo na pesquisa e organização do entretenimento.                 | Economizar tempo na pesquisa e organização do entretenimento. |
+|Maria       | Criar listas de reprodução personalizadas para diferentes membros da minha família, como meus filhos e meu marido                 | Tornar a escolha de conteúdo mais conveniente e organizada. |
+|Maria       | Receber recomendações inteligentes com base nos gostos e histórico de visualização da minha família                 | Descobrir novos conteúdos que se adaptem aos nossos interesses compartilhados. |
 
 ## Requisitos
 
@@ -50,30 +67,22 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| A aplicação deve fornecer recomendações de filmes e séries de alta qualidade com base nos interesses e preferências do usuário | ALTA | 
+|RF-002| A aplicação deve permitir que o usuário filtre as recomendações por gênero, classificação etária e críticas da comunidade   | ALTA |
+|RF-003| A aplicação deve fornecer uma função de acompanhamento para que o usuário possa marcar os filmes e séries que já assistiu   | MÉDIA |
+|RF-004| A aplicação deve permitir que o usuário crie listas de reprodução personalizadas, associando-as a perfis de membros da família   | MÉDIA |
+|RF-005| A aplicação deve fornecer informações detalhadas sobre o conteúdo, incluindo classificação etária, sinopse e avaliações parentais   | ALTA |
+|RF-006| A aplicação deve oferecer recomendações inteligentes com base nos gostos e histórico de visualização do usuário   | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-001|A aplicação deve ter uma interface de usuário intuitiva e amigável, adequada para pessoas com diferentes níveis de habilidade técnica | ALTA | 
+|RNF-002| A aplicação deve ser responsiva e compatível com dispositivos móveis, garantindo uma experiência consistente em smartphones e tablets |  ALTA | 
+|RNF-002| A aplicação deve processar as requisições do usuário, como pesquisa e filtragem, em no máximo 3 segundos para garantir a eficiência da experiência do usuário |  MÉDIA | 
+|RNF-002| A aplicação deve fornecer informações atualizadas sobre os filmes e séries disponíveis, garantindo a precisão dos dados |  ALTA | 
+|RNF-002| A aplicação deve ser segura, protegendo as informações do usuário e mantendo a privacidade dos dados pessoais |  ALTA | 
 
 ## Restrições
 
@@ -82,13 +91,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
+|02| A aplicação será desenvolvida para dispositivos móveis, priorizando a acessibilidade e usabilidade em smartphones e tablets        |
+|03| O projeto deve cumprir todas as regulamentações de proteção de dados e privacidade, garantindo que as informações dos usuários sejam mantidas em sigilo absoluto.        |
+|04| A aplicação será desenvolvida para funcionar em sistemas operacionais iOS e Android, abrangendo uma ampla gama de dispositivos móveis.        |
+|05| A equipe de desenvolvimento deve seguir as melhores práticas de segurança cibernética e realizar testes de segurança rigorosos antes do lançamento da aplicação.        |
 
 ## Diagrama de Casos de Uso
 
