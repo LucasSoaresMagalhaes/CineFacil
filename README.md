@@ -1,0 +1,50 @@
+# CineFácil
+
+`Análise e Desenvolvimento de Sistemas`
+
+`Trabalho Interdisciplinar: Aplicação Móvel`
+
+`4º Semestre`
+
+O CineFácil está atualmente em fase de desenvolvimento para oferecer uma plataforma de gerenciamento de filmes e séries mais avançada. A visão futura do CineFácil envolve a integração de tecnologias de aprendizado de máquina e análise de sentimentos, permitindo aos usuários compreender o impacto emocional de suas escolhas de entretenimento. Além disso, a aplicação planeja implementar recursos de realidade virtual e realidade aumentada para proporcionar experiências mais imersivas e interativas com o conteúdo. O objetivo é criar um ambiente mais personalizado para os amantes do cinema, onde cada obra seja catalogada com detalhes significativos, e as recomendações sejam precisas e alinhadas com as preferências individuais. Esta é a visão que estamos trabalhando diligentemente para realizar no futuro do entretenimento. Junte-se a nós nesta jornada para redefinir a experiência audiovisual.
+
+## Integrantes
+
+* Brenda Moreira Rodrigues
+* Lucas Soares Magalhães
+* Samuel Carlos da Silva
+* Victor Ribeiro de Souza
+
+## Orientador
+
+* Pedro Felipe Alves de Oliveira
+
+## Instruções de utilização
+
+Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
+# Documentação
+
+<ol>
+<li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
+<li><a href="docs/02-Especificação do Projeto.md"> Especificação do Projeto</a></li>
+<li><a href="docs/03-Metodologia.md"> Metodologia</a></li>
+<li><a href="docs/04-Projeto de Interface.md"> Projeto de Interface</a></li>
+<li><a href="docs/05-Arquitetura da Solução.md"> Arquitetura da Solução</a></li>
+<li><a href="docs/06-Template Padrão da Aplicação.md"> Template Padrão da Aplicação</a></li>
+<li><a href="docs/07-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
+<li><a href="docs/08-Plano de Testes de Software.md"> Plano de Testes de Software</a></li>
+<li><a href="docs/09-Registro de Testes de Software.md"> Registro de Testes de Software</a></li>
+<li><a href="docs/10-Plano de Testes de Usabilidade.md"> Plano de Testes de Usabilidade</a></li>
+<li><a href="docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
+<li><a href="docs/12-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
+<li><a href="docs/13-Referências.md"> Referências</a></li>
+</ol>
+
+# Código
+
+<li><a href="src/README.md"> Código Fonte</a></li>
+
+# Apresentação
+
+<li><a href="presentation/README.md"> Apresentação da solução</a></li>
