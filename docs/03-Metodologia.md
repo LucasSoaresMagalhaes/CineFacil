@@ -10,6 +10,7 @@ A metodologia utilizada será o método ágil Scrum. O Scrum é uma metodologia 
 
 
 | Ambiente | Descrição | Acesso |
+| --- | --- |
 | Repositório GitHub   | Repositório com arquivos do projeto     | https://github.com/LucasSoaresMagalhaes/CineFacil    |
 | Planner     | Planejamento de entregas de tarefas       | https://tasks.office.com/sgapucminasbr.onmicrosoft.com/pt-BR/Home/Planner#/plantaskboard?groupId=c898b2eb-f6bd-43da-bc94-35939cc944e5&planId=L0tRUXjQsE6wD9LOL5UarWQAABVA      |
 | Teams   | Comunicação remota entre a equipe     | https://teams.microsoft.com/    |
