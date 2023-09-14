@@ -2,6 +2,8 @@
 
 No mundo moderno, o entretenimento audiovisual está mais acessível do que nunca, com inúmeras opções de filmes e séries disponíveis em várias plataformas de streaming. No entanto, esta abundância de escolha muitas vezes deixa os espectadores confusos e sobrecarregados. As pessoas desejam desfrutar de filmes e séries, mas frequentemente enfrentam desafios para encontrar títulos interessantes e saber em qual plataforma eles estão disponíveis. Além disso, a necessidade de organizar e acessar suas mídias favoritas de maneira eficiente é uma preocupação constante.
 
+![Logo do projeto](img/LogoCinefacil.png)
+
 ## Problema
 O problema central abordado pelo projeto CineFácil é a falta de uma solução eficaz para ajudar as pessoas a encontrar, assistir e organizar seus filmes e séries favoritos. Muitos espectadores se sentem perdidos em meio à variedade de opções e desejam uma maneira conveniente de catalogar e gerenciar seu entretenimento.
 
