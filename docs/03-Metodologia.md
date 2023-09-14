@@ -3,12 +3,17 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia utilizada será o método ágil Scrum. O Scrum é uma metodologia ágil que se encaixa bem em projetos de desenvolvimento de software como o CineFácil, proporcionando flexibilidade, foco na entrega de valor, envolvimento do usuário e melhoria contínua. Esses benefícios tornam o Scrum uma escolha sólida para o sucesso do projeto.
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+
+
+| Ambiente | Descrição | Acesso |
+| Repositório GitHub   | Repositório com arquivos do projeto     | https://github.com/LucasSoaresMagalhaes/CineFacil    |
+| Planner     | Planejamento de entregas de tarefas       | https://tasks.office.com/sgapucminasbr.onmicrosoft.com/pt-BR/Home/Planner#/plantaskboard?groupId=c898b2eb-f6bd-43da-bc94-35939cc944e5&planId=L0tRUXjQsE6wD9LOL5UarWQAABVA      |
+| Teams   | Comunicação remota entre a equipe     | https://teams.microsoft.com/    |
+
 
 ## Controle de Versão
 
@@ -74,14 +79,10 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+- VsCode
+- Teams
+- Planner
+- Moqups
+- Nclass
+- GitHub
 
-O editor de código foi escolhido porque ele possui uma integração com o sistema de versão. As ferramentas de comunicação utilizadas possuem integração semelhante e por isso foram selecionadas. Por fim, para criar diagramas utilizamos essa ferramenta por melhor captar as necessidades da nossa solução.
-
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)

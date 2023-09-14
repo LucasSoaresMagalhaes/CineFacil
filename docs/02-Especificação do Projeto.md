@@ -98,16 +98,9 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+O nosso diagrama de casos de uso consiste principalmente em dois atores, o usuário e o administrador, onde o usuário irá interagir com a parte de consumo do conteúdo oferecido pela nossa aplicação e o administrador que irá cuidar do sistema como um todo resolvendo eventuais conflitos de regras de negócios e requisitos do sistema, assim como eventuais ações paleativas para erros de usuários.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Diagrama de caso de uso](img/DiagramaDeCasoDeUso.png)
 
 # Matriz de Rastreabilidade
 
