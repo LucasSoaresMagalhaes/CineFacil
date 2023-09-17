@@ -102,33 +102,45 @@ O nosso diagrama de casos de uso consiste principalmente em dois atores, o usuá
 
 ![Diagrama de caso de uso](img/DiagramaDeCasoDeUso.png)
 
-# Matriz de Rastreabilidade
-
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
-
-A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
-
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
-
-> **Links Úteis**:
-> - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
-> - [Verificação da rastreabilidade de requisitos usando a integração do IBM Rational RequisitePro e do IBM ClearQuest Test Manager](https://developer.ibm.com/br/tutorials/requirementstraceabilityverificationusingrrpandcctm/)
-> - [IBM Engineering Lifecycle Optimization – Publishing](https://www.ibm.com/br-pt/products/engineering-lifecycle-optimization/publishing/)
-
-
 # Gerenciamento de Projeto
 
-De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar projetos, e que caracterizam a multidisciplinaridade envolvida, são: Integração, Escopo, Cronograma (Tempo), Custos, Qualidade, Recursos, Comunicações, Riscos, Aquisições, Partes Interessadas. Para desenvolver projetos um profissional deve se preocupar em gerenciar todas essas dez áreas. Elas se complementam e se relacionam, de tal forma que não se deve apenas examinar uma área de forma estanque. É preciso considerar, por exemplo, que as áreas de Escopo, Cronograma e Custos estão muito relacionadas. Assim, se eu amplio o escopo de um projeto eu posso afetar seu cronograma e seus custos.
+1. Definição do Escopo do Projeto CineFácil:
 
-## Gerenciamento de Tempo
+    O escopo do projeto CineFácil é criar uma aplicação móvel que permita aos usuários pesquisar filmes e séries, criar listas de reprodução personalizadas, receber recomendações com base em suas preferências, rastrear o histórico de visualização e acessar informações detalhadas sobre conteúdo. O projeto visa oferecer uma experiência de entretenimento mais conveniente e personalizada para os usuários.
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+2. Escopo do Produto vs. Escopo do Projeto:
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
+    O escopo do produto inclui todas as funcionalidades da aplicação CineFácil, como pesquisa de filmes, recomendações personalizadas, criação de listas de reprodução, integração com múltiplas plataformas de streaming, detalhes do conteúdo, histórico de visualização e configuração de perfis de família.
+    O escopo do projeto abrange as atividades necessárias para desenvolver, testar, implantar e manter a aplicação, incluindo o desenvolvimento de software, gerenciamento de projeto, testes de qualidade e criação de documentação.
 
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
+3. Documentação de Requisitos:
 
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+    Os requisitos da aplicação CineFácil foram documentados de forma abrangente, incluindo descrições detalhadas das funcionalidades, critérios de aceitação, requisitos de desempenho, interfaces do usuário e requisitos de segurança de dados.
+
+4. Especificação de Limitações e Restrições:
+
+    Algumas limitações e restrições incluem:
+        Orçamento limitado para desenvolvimento.
+        Requisitos de privacidade de dados em conformidade com regulamentações.
+        Disponibilidade em plataformas iOS e Android.
+
+5. Validando o Escopo com as Partes Interessadas:
+
+    O escopo do projeto e do produto foi validado com as partes interessadas, incluindo representantes da equipe de desenvolvimento, usuários finais e administradores.
+
+6. Controle de Mudanças no Escopo:
+
+    Durante o projeto CineFácil, qualquer mudança proposta no escopo passará por uma avaliação rigorosa para determinar seu impacto no cronograma, custos e qualidade. Mudanças não aprovadas não serão implementadas sem consideração cuidadosa.
+
+7. Gestão do Escopo ao Longo do Projeto:
+
+    A equipe de gerenciamento monitorará continuamente o progresso em relação ao escopo definido, identificando quaisquer desvios ou variações e tomando medidas corretivas, quando necessário.
+
+8. Entrega Conforme o Escopo:
+
+    No final do projeto, será realizado um processo de revisão para garantir que todas as funcionalidades e requisitos definidos no escopo tenham sido entregues conforme planejado.
+
+A aplicação eficaz dos conceitos de escopo no projeto CineFácil ajudará a garantir que o projeto permaneça dentro dos limites de tempo, orçamento e recursos definidos, ao mesmo tempo em que atende às expectativas dos usuários e fornece uma experiência de entretenimento de alta qualidade. Também ajuda a evitar expansões não planejadas que possam causar problemas de gerenciamento.
 
 ## Gerenciamento de Equipe
 
@@ -138,6 +150,6 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+Será utilizado pelo projeto os seguintes recursos para orçamento:
 
 ![Orçamento](img/02-orcamento.png)
