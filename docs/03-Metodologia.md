@@ -114,11 +114,20 @@ A utilização do GitHub como ferramenta de gerenciamento de projeto complementa
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
-
-- VsCode
+Controle de Versão
+- GitHub
+- Git
+Gerenciamento de Projeto
 - Teams
 - Planner
+Ferramentas
+- VsCode
 - Moqups
 - Nclass
-- GitHub
+- Android Studio
+Tecnologias
+- Kotlin
+- Android SDK
+- Firebase
+- MongoDB
 
