@@ -38,11 +38,17 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 ## Tecnologias Utilizadas
 
 Android Studio
+
 Kotlin
+
 Android SDK
+
 Firebase
+
 MongoDB
+
 API IMDB
+
 ## Hospedagem
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
