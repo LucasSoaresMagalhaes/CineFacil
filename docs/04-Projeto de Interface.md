@@ -23,18 +23,22 @@ As referências abaixo irão auxiliá-lo na geração do artefato “Diagramas d
 ## Wireframes
 
 **Tela inicial**
+
 ![](img/tela-inicial-cinefacil.jfif)
 
 
 **Seleção de filme**
+
 ![](img/filme-cinefacil.jfif)
 
 
 **Login**
+
 ![](img/login-cinefacil.jfif)
 
 
 **Cadastro**
+
 ![](img/cadastro-cinefacil.jfif)
 
 
