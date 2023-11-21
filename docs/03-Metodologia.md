@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A métodologia utilizada será o método ágil Scrum. O Scrum é uma metodologia ágil que se encaixa bem em projetos de desenvolvimento de software como o CineFácil, proporcionando flexibilidade, foco na entrega de valor, envolvimento do usuário e melhoria contínua. Esses benefícios tornam o Scrum uma escolha sólida para o sucesso do projeto.
+A métodologia utilizada será o método ágil Scrum. O Scrum é uma metodologia ágil que se encaixa bem em projetos de desenvolvimento de software como o CineFácil, proporcionando flexibilidade, foco na entrega de valor, envolvimento do usuário e melhoria contínua. Esses benefícios tornam o Scrum uma escolha sólida para o sucesso do projeto
 
 ## Relação de Ambientes de Trabalho
 
