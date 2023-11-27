@@ -3,4 +3,31 @@
     <string name="movie_title">Saw X</string>
     <string name="movie_description">Esperando por uma cura milagrosa, o adoecido John Kramer viaja para o México para um procedimento médico arriscado e experimental. Mas ao chegar no destino, se depara com um ambiente macabro, e descobre que toda a operação é uma farsa para enganar pessoas já vulneráveis.</string>
     <string name="synopsis_title">Sinopse</string>
+    <string name="email_input">Email</string>
+    <string name="password_input">Senha</string>
+    <string name="login_button">ENTRAR</string>
+    <string name="login_title">Entrar</string>
+    <string name="signup_title">Sign Up</string>
+    <string name="signup_description">Criar nova conta</string>
+    <string name="signup_name">Nome Completo</string>
+    <string name="signup_telephone">Telefone</string>
+    <string name="signup_email">Email</string>
+    <string name="signup_password">Senha</string>
+    <string name="signup_button">INSCREVER-SE</string>
+    <string name="serie_season1">1</string>
+    <string name="serie_season2">2</string>
+    <string name="serie_season3">4</string>
+    <string name="serie_title1">Twisted Metal</string>
+    <string name="serie_title2">Loki</string>
+    <string name="serie_title3">Cobra Kai</string>
+    <string name="serie_streaming1">HBO Max</string>
+    <string name="serie_streaming2">Disney+</string>
+    <string name="serie_streaming3">Netflix</string>
+    <string name="title_label">Título:</string>
+    <string name="season_label">Temporadas:</string>
+    <string name="streaming_label">Streaming:</string>
+
+
+
+
 </resources>
