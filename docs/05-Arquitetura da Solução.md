@@ -37,17 +37,14 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-Android Studio
 
 Kotlin
-
+Kotlin
 Android SDK
-
 Firebase
-
 MongoDB
-
 API IMDB
+
 
 ## Hospedagem
 Hospedagem do aplicativo deve ser feita na plataforma Google Play.
