@@ -1,33 +1,19 @@
 <resources>
     <string name="app_name">CineFacil</string>
-    <string name="movie_title">Saw X</string>
-    <string name="movie_description">Esperando por uma cura milagrosa, o adoecido John Kramer viaja para o México para um procedimento médico arriscado e experimental. Mas ao chegar no destino, se depara com um ambiente macabro, e descobre que toda a operação é uma farsa para enganar pessoas já vulneráveis.</string>
-    <string name="synopsis_title">Sinopse</string>
-    <string name="email_input">Email</string>
-    <string name="password_input">Senha</string>
-    <string name="login_button">ENTRAR</string>
-    <string name="login_title">Entrar</string>
-    <string name="signup_title">Sign Up</string>
-    <string name="signup_description">Criar nova conta</string>
-    <string name="signup_name">Nome Completo</string>
-    <string name="signup_telephone">Telefone</string>
-    <string name="signup_email">Email</string>
-    <string name="signup_password">Senha</string>
-    <string name="signup_button">INSCREVER-SE</string>
-    <string name="serie_season1">1</string>
-    <string name="serie_season2">2</string>
-    <string name="serie_season3">4</string>
-    <string name="serie_title1">Twisted Metal</string>
-    <string name="serie_title2">Loki</string>
-    <string name="serie_title3">Cobra Kai</string>
-    <string name="serie_streaming1">HBO Max</string>
-    <string name="serie_streaming2">Disney+</string>
-    <string name="serie_streaming3">Netflix</string>
-    <string name="title_label">Título:</string>
-    <string name="season_label">Temporadas:</string>
-    <string name="streaming_label">Streaming:</string>
-
-
-
-
+    <string name="most_popular">Most Pouplar</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="connection_error">Connection error</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="connection_error_description">A connection error has occurred. Please check your internet and try again.</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="overview">Overview</string>
+    <string name="favorite">Favorite</string>
+    <string name="disfavor">Disfavor</string>
+    <string name="watch_video_on_youtube">Watch video on youtube</string>
+    <string name="trailer">Trailer</string>
+    <string name="home">Home</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorites_empty_message">You still don\'t have any favorite movies :(</string>
 </resources>
